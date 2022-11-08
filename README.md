@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Cryptway Exchange</h1>
 
-<p align="center"><img src="https://socialify.git.ci/cryptway/cryptway-exchange/image?language=1&owner=1&name=1&stargazers=1;&issues=1&amp;language=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/cryptway/cryptway-exchange/image?description=1&amp;font=Raleway&amp;issues=1&amp;language=1&amp;pattern=Charlie%20Brown&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 <h2>🚀 Demo</h2>
 

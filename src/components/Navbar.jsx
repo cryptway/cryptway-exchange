@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="text-white md:flex list-none flex-row justify-between items-center flex-initial">
       
       <a href="https://etherscan.io/" target="_blank">Etherscan</a> 
-      <a href="https://modernblog-app.vercel.app/" className="mx-5" target="_blank">Learn more</a> 
+      <a href="https://cryptway.github.io/" className="mx-5" target="_blank">Learn more</a> 
         </div>
     </nav>
   );
